@@ -1,0 +1,39 @@
+{
+  "entertainment_news": [
+    {
+      "title": "सर्वत्र एआई कभर संगीत : बढ्दो प्रतिलिपि अधिकार हननविरुद्ध लड्दै संगीतकर्मी",
+      "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/entertainment/ai-covers-0582026042344-1000x0.jpg&w=701&h=0",
+      "category": "मनोरञ्जन",
+      "author": "आर्या चन्द"
+    },
+    {
+      "title": "‘पच्चिस पच्चिस’मा अभिषेक र खुशीको जोडी",
+      "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/third-party/2525movie-0482026065012-1000x0.jpg&w=701&h=0",
+      "category": "मनोरञ्जन",
+      "author": "कान्तिपुर संवाददाता"
+    },
+    {
+      "title": "एरियाना ग्रान्डेको सार्वजनिक जीवनबाट टाढिने घोषणा",
+      "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/third-party/ariana-grande-arrives-at-the-62nd-annual-grammy-awards-at-news-photo-0382026060515-1000x0.jpg&w=701&h=0",
+      "category": "मनोरञ्जन",
+      "author": "कान्तिपुर संवाददाता"
+    },
+    {
+      "title": "एरियाना ग्रान्डेको दुब्लो शरीरप्रति फ्यानको चासो",
+      "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/third-party/arianagrande-0282026015240-1000x0.jpg&w=701&h=0",
+      "category": "मनोरञ्जन",
+      "author": "एजेन्सी"
+    },
+    {
+      "title": "‘स्पाइडर–म्यानः ब्रान्ड न्यु डे’ को बक्सअफिसमा रेकर्डतोड कमाई, ‘एभेन्जर्सः इन्डगेम’ लाई उछिन्यो",
+      "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/third-party/spidermanbrandnewday7-3172026124236-1000x0.jpg&w=701&h=0",
+      "category": "मनोरञ्जन",
+      "author": "एजेन्सी"
+    }
+  ],
+  "cartoon_of_the_day": {
+    "title": "गजब छ बा!",
+    "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2022/third-party/gajab-chha-ba-830419-0582026032443-1000x0.jpg&w=601&h=0",
+    "author": ""
+  }
+}

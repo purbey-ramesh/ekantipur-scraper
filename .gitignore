@@ -1,0 +1,22 @@
+# Ignore node_modules (common in JavaScript projects)
+node_modules/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore build or output folders
+/dist
+/build
+.python-version
+tryme/
+src/
+*.zip
+*.lock
+
